@@ -77,8 +77,18 @@ img {
         align-items: center;
         gap: 60px;
     }
+    .text-area p{
+        width: auto;
+
+    }
+
     body {
         height: auto;
-        width: auto;
+        margin: 0 auto;
+    }
+
+    .container {
+        width: 600px;
+        margin: 0 auto;
     }
 }
